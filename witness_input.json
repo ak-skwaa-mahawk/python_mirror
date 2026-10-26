@@ -1,1 +1,35 @@
-{"sequence":84,"previousRoot":"0x1cacc56ea48f043ffb1419ec9c24b375daf0713ad37d0da562e02e66df2aa5a0","activeMemoryIds":["sovr-001","fraud-audit-001"],"priorPolygon":[1.283506,0.146228,0.05,0.97334],"candidatePolygon":[1.283269,0.145994,0.05,0.973425],"macro_coords":{"x":1.283269,"y":0.145994},"lyapunov_exponent":-7.683965,"lineage":"audit_attestation_v130","provenance_mask":"0x0000002B","audit_attestation":{"target":"US-GRANT-SAMPLE-7741","discrepancy_usd":1250000,"category":"procurement_fraud","evidence_root":"0x843cffe2b33f5abdc396d0a2f66fba1bf5debf132d1641ff2a8206d9ad7d1f50","evm_verifier":"0xb09d703e8dc8f4e8bb0ec5d6fb40d96c23febf6e","beneficiary_solana":"2ChMGz6MeNoEgBuGj7aXYw1Mbc3DSzkZgwNwg1xGD1r9"}}
+{
+  "sequence": 86,
+  "previousRoot": "0x1cacc56ea48f043ffb1419ec9c24b375daf0713ad37d0da562e02e66df2aa5a0",
+  "activeMemoryIds": [
+    "sovr-001",
+    "fraud-audit-001"
+  ],
+  "priorPolygon": [
+    1.283269,
+    0.145994,
+    0.05,
+    0.973425
+  ],
+  "candidatePolygon": [
+    1.292748,
+    0.155354,
+    0.05,
+    0.973425
+  ],
+  "macro_coords": {
+    "x": 1.292748,
+    "y": 0.155354
+  },
+  "lyapunov_exponent": -7.683965,
+  "lineage": "audit_attestation_v130",
+  "provenance_mask": "0x0000002B",
+  "audit_attestation": {
+    "target": "US-GRANT-SAMPLE-7741",
+    "discrepancy_usd": 1250000.0,
+    "category": "procurement_fraud",
+    "evidence_root": "0x6511d24b2e5f6c767fdc2429622e94426ebd32291bf2a020853029d683901a5d",
+    "evm_verifier": "0xb09d703e8dc8f4e8bb0ec5d6fb40d96c23febf6e",
+    "beneficiary_solana": "2ChMGz6MeNoEgBuGj7aXYw1Mbc3DSzkZgwNwg1xGD1r9"
+  }
+}
